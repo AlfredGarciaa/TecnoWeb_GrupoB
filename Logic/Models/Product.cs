@@ -2,6 +2,7 @@
 
 namespace Logic.Models
 {
+    //CARACTERISTICAS DE LOS PRODUCTOS
     public class Product
     {
         public Guid Id { get; set; }
